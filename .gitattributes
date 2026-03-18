@@ -1,0 +1,8 @@
+# 强制 shell 脚本使用 LF 换行符（禁止 CRLF）
+*.sh text eol=lf
+
+# 可选：Python 文件也统一用 LF（虽然通常兼容）
+*.py text eol=lf
+
+# 其他二进制文件不要动
+* binary
