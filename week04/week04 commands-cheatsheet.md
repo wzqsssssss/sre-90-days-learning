@@ -1,4 +1,4 @@
-# Week 1 - Python & Git 运维速查表
+# Week 4 - Python & Git 运维速查表
 
 > ✅ 所有命令均在 Ubuntu 24.04 验证 + Python 3.12.3 验证
 > 💡 使用原则：能复制、能执行、能解决问题
@@ -151,7 +151,7 @@ pip list | grep requests
 python3 -c "import requests; print(requests.__file__)"
 ```
 
-**✨**  **小技巧** 
+**✨**  **小技巧**
 
 ```bash
 # 1. 快速创建带 shebang 的 Python 脚本
